@@ -8,7 +8,7 @@ TL:DR - I didn't, my experience is more in functional QA and this task whooped m
 
 Thank you for the opportunity, despite the end result, I did have fun learning how to setup the different tools on my machine.
 
-- Moe
+ Moe
 ====================================================================================
 Tools installed through the process:
 **Node.Js
@@ -28,10 +28,11 @@ Tools installed through the process:
 (Attempted to troubleshoot using basic google search but wasn't as helpful)
 **Ubuntu
 **WSL (desktop shell)
+
 Tools also used:
 
-**CMD prompt
-**Powershell
+--CMD prompt
+--Powershell
 ===================================================================================
 
 Errors with setup and fixes:
