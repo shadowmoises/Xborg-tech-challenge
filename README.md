@@ -11,6 +11,7 @@ Thank you for the opportunity, despite the end result, I did have fun learning h
  Moe
 ====================================================================================
 Tools installed through the process:
+
 **Node.Js
 **VSCode with extensions
 - Dev Containers
@@ -31,8 +32,8 @@ Tools installed through the process:
 
 Tools also used:
 
---CMD prompt
---Powershell
+-CMD prompt
+-Powershell
 ===================================================================================
 
 Errors with setup and fixes:
