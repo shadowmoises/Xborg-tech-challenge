@@ -32,8 +32,8 @@ Tools installed through the process:
 
 Tools also used:
 
--CMD prompt
--Powershell
+- CMD prompt
+- Powershell
 ===================================================================================
 
 Errors with setup and fixes:
